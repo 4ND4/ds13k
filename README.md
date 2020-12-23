@@ -8,13 +8,11 @@ Here are the models and relevant files produced by the paper "Improving Borderli
  
 10k iteration caffemodel file: https://drive.google.com/file/d/19M3qeEsJNERhH0GuSxsKcT-h2hVrRjz3/view?usp=sharing
 
+### Content
 
-Content
---------------------------------------------
 The caffe models.
 An early VisAGe mean binaryproto file.
 The age prototxt with the VGG16 architecture.
----------------------------------------------
 
 ### Citation
 
@@ -24,5 +22,14 @@ If you use these models in your research, please cite:
 		author = {Anda, Felix and Lillis, David and Kanta, Aikaterini and Becker, Brett A. and Bou-Harb, Elias and Le-Khac, Nhien-An and Scanlon, Mark},
 		title = {Improving Borderline Adulthood Facial Age Estimation through Ensemble Learning},
 		year = {2019},
-  isbn = {9781450371643}
+		isbn = {9781450371643},
+		publisher = {Association for Computing Machinery},
+		address = {New York, NY, USA},
+		url = {https://doi.org/10.1145/3339252.3341491},
+		doi = {10.1145/3339252.3341491},
+		articleno = {57},
+		numpages = {8},
+		keywords = {Child Exploitation Investigation, Facial Recognition, Digital Forensics, Underage Photo Datasets, Deep Learning},
+		location = {Canterbury, CA, United Kingdom},
+		series = {ARES '19}				
 	}
